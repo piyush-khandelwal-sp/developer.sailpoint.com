@@ -67,9 +67,9 @@ This should be the rule's file name:
 
 `Rule - IdentityAttribute - Calculate Lifecycle.xml`
 
-If you do not have a type, use "Generic" as the type. It would look like this:
+If you do not have a type, use "Transform" as the type. It would look like this:
 
-`Rule - Generic - My Generic Rule.xml`
+`Rule - Transform - My Transform Rule.xml`
 
 - **Updating Existing Rules and Versioning**
 
